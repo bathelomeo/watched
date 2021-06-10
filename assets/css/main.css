@@ -1,5 +1,8 @@
 body{
-    background-color: blue;
+    background-color: skyblue;
+}
+.container{
+    background-color: white;
 }
 .moviesandcartoons{
     background-color: red;
